@@ -20,7 +20,7 @@ static int remove(ListNode* node, int n){
     return index;
 } 
 
-
+=
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
